@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;f
+use Illuminate\Http\Request;
 
 class LoginsController extends Controller
 {
